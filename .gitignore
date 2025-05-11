@@ -38,7 +38,7 @@ yarn-error.log*
 .envrc
 
 # IDE
-*.code-workspace
+*.Code-Workspace 
 .idea
 
 tmp*
